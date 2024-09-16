@@ -1,0 +1,10 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+tss:x:106:113:TPM software stack,,,:/var/lib/tpm:/bin/false
+whoopsie:x:117:124::/nonexistent:/bin/false
+speech-dispatcher:x:119:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+gnome-initial-setup:x:126:65534::/run/gnome-initial-setup/:/bin/false
+hplip:x:127:7:HPLIP system user,,,:/run/hplip:/bin/false
+gdm:x:128:134:Gnome Display Manager:/var/lib/gdm3:/bin/false
+zahi:x:1000:1000:zahi,,,:/home/zahi:/bin/bash
+dhcpcd:x:129:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
