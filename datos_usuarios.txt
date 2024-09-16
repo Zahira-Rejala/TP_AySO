@@ -1,0 +1,9 @@
+Usuario=zahi > datos_usuarios.txt
+
+git status
+exit
+
+
+gist status
+git add -
+echo Usuario=zahi
